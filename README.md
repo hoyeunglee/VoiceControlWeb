@@ -13,3 +13,6 @@ What is next?
 1. Marvel game like role choice list display 3D animation of a person and his attributes and skills
 
 2. Automatic Analysis graph and table shown
+
+
+https://voice-control-user-interface-design.business.site
